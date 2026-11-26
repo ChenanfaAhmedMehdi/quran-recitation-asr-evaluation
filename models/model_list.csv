@@ -1,0 +1,6 @@
+Family,Base model,Model name,Output,Training dataset,Author notes
+Whisper,openai/whisper-medium,Habib-HF/tarbiyah-ai-whisper-medium-merged,Letters with harakat,tarteel-ai/everyayah  + MohamedRashad/Quran-Recitations,
+Whisper,openai/whisper-large-v3,aboalaa1472/whisper-quran-lora-v2,Letters with harakat,tarteel-ai/everyayah,
+Whisper,openai/whisper-small,NightPrince/stt-arabic-whisper-finetuned-diactires,Letters with harakat,tarteel-ai/everyayah,
+Wav2Vec2,facebook/wav2vec2-large-xlsr-53,MostafaMaroof/wav2vec2-arabic-phoneme-asr,Phonemes,tunis-ai/arabic_speech_corpus + IqraEval/Iqra_train,
+Wav2Vec2,facebook/wav2vec2-large,IbrahimSalah/Wav2vecLarge_quran_syllables_recognition,Syllables with harakat,tarteel-ai/everyayah + private dataset,
